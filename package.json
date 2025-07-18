@@ -2,7 +2,8 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tola360/netflix-auth-app/prod",
+  
+  "homepage": "https://tola360.github.io/netflix-auth-app",
   
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
